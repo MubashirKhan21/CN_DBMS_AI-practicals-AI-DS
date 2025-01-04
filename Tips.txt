@@ -1,0 +1,11 @@
+Practical 1 (topologies):- Dirct message passing done remember ip address of each pc
+Practical 2 (Setup a wired LAN using Layer 2 Switch):- all setup done use ping command and put ip address of the pc
+Practical 3 (Setup a WAN which contains wired as well as wireless LAN):-poweroff the pc and use wmp mpdule for wireless connection make connection by going on pc/desktp/pc wireless and then connect by using key and name , to communicate with phone use ping command and put the ip address of mobile.
+Practical 4 (Use packet Tracer tool for configuration of 3 router networks using one of the following
+protocols RIP):- router has 2 ports so we add extra slots we use wic1t in 1st & 3rd router,and the middle one uses wic2t when we send the message we add and set the router path in config and select rip
+Practical 5 (Installing and configuring DHCP server and assign IP addresses to client machines using
+DHCP server):- here we have changed the switch in the switch and added pt-s-nm-1cfe in server we have added ip address & then went to service and selected DHCP and added subnet and ip and added the default gateway and dns server and turned it on maximum no of users must be 152 to configure pc we select them and then we select dhcp
+
+
+
+(HTTP/HTTPS & FTP):- For HTTP select any pc go to ddesktop select web browser and put the ip address of the server / for ftp select pc go to command line put (ipconfig,ftp and server address , put ur username and password , dir , help , delete [put the complete name] , quit)
